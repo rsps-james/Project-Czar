@@ -1,0 +1,62 @@
+mod kory trades item: 392 amount: 10000 with invadezim1
+mod kory trades item: 15334 amount: 1 with invadezim1
+invadezim1 trades item: 4730 amount: 1 with mod kory
+invadezim1 trades item: 4111 amount: 1 with mod kory
+invadezim1 trades item: 4151 amount: 1 with mod kory
+invadezim1 trades item: 7462 amount: 1 with mod kory
+invadezim1 trades item: 3751 amount: 1 with mod kory
+invadezim1 trades item: 6570 amount: 1 with mod kory
+invadezim1 trades item: 4278 amount: 220 with mod kory
+mod kory trades item: 2446 amount: 1 with invadezim1
+mod kory trades item: 2446 amount: 1 with invadezim1
+mod kory trades item: 2446 amount: 1 with invadezim1
+mod kory trades item: 2446 amount: 1 with invadezim1
+mod kory trades item: 995 amount: 999977189 with invadezim1
+invadezim1 trades item: 3105 amount: 1 with mod kory
+mod kory trades item: 177 amount: 1 with invadezim1
+mod kory trades item: 4728 amount: 1 with invadezim1
+mod kory trades item: 4730 amount: 1 with invadezim1
+mod kory trades item: 4724 amount: 1 with invadezim1
+mod kory trades item: 4151 amount: 1 with invadezim1
+mod kory trades item: 4214 amount: 1 with invadezim1
+mod kory trades item: 4587 amount: 1 with invadezim1
+mod kory trades item: 6570 amount: 1 with invadezim1
+mod kory trades item: 5698 amount: 1 with invadezim1
+mod kory trades item: 4131 amount: 1 with invadezim1
+Mod Lolsant trades item: 391 amount: 1 with mod kory
+Mod Lolsant trades item: 391 amount: 1 with mod kory
+Mod Lolsant trades item: 391 amount: 1 with mod kory
+Mod Lolsant trades item: 391 amount: 1 with mod kory
+Mod Lolsant trades item: 391 amount: 1 with mod kory
+Mod Lolsant trades item: 391 amount: 1 with mod kory
+Mod Lolsant trades item: 391 amount: 1 with mod kory
+Mod Lolsant trades item: 391 amount: 1 with mod kory
+Mod Lolsant trades item: 391 amount: 1 with mod kory
+mod kory trades item: 1042 amount: 1 with Mod Lolsant
+mod kory trades item: 1187 amount: 1 with Mod Lolsant
+mod kory trades item: 4087 amount: 1 with Mod Lolsant
+mod kory trades item: 3140 amount: 1 with Mod Lolsant
+mod kory trades item: 6585 amount: 1 with Mod Lolsant
+mod kory trades item: 6570 amount: 1 with Mod Lolsant
+mod kory trades item: 6922 amount: 1 with Mod Lolsant
+mod kory trades item: 6528 amount: 1 with Mod Lolsant
+mod kory trades item: 6920 amount: 1 with Mod Lolsant
+mod kory trades item: 1187 amount: 1 with invadezim1
+mod kory trades item: 4728 amount: 1 with invadezim1
+mod kory trades item: 4730 amount: 1 with invadezim1
+mod kory trades item: 6922 amount: 1 with invadezim1
+mod kory trades item: 6920 amount: 1 with invadezim1
+mod kory trades item: 6570 amount: 1 with invadezim1
+mod kory trades item: 177 amount: 1 with invadezim1
+mod kory trades item: 4724 amount: 1 with invadezim1
+mod kory trades item: 4151 amount: 1 with invadezim1
+mod kory trades item: 1305 amount: 1 with invadezim1
+mod kory trades item: 4587 amount: 1 with invadezim1
+mod kory trades item: 4131 amount: 1 with invadezim1
+mod kory trades item: 4087 amount: 1 with mod jon
+mod kory trades item: 6585 amount: 1 with mod jon
+mod kory trades item: 6570 amount: 1 with mod jon
+mod kory trades item: 1187 amount: 1 with mod jon
+mod kory trades item: 3140 amount: 1 with mod jon
+mod kory trades item: 6570 amount: 20 with lil hotty
+mod kory trades item: 995 amount: 769540690 with lil hotty

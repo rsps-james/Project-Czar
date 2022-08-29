@@ -1,0 +1,8 @@
+Ran Server at 10:55:22.92 and on Sat 02/02/2008. 
+Server was run using "C:\Program Files\Java\jre1.6.0_01\bin\java.exe". 
+Thank you for using Mod Taharok's 'Perfect' Compiler! 
+ 
+Ran Server at 10:57:11.53 and on Sat 02/02/2008. 
+Server was run using "C:\Program Files\Java\jre1.6.0_01\bin\java.exe". 
+Thank you for using Mod Taharok's 'Perfect' Compiler! 
+ 

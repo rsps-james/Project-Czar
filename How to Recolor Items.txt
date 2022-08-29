@@ -1,0 +1,141 @@
+Step 1:Go into the item dump and find the item you want to recolor
+Step 2:Open up your Class8.java (in the client) and find a previous recolored item like lava boots.
+
+Look at this for a second:
+
+if(i == 15341){
+class8.aStringArray189 = new String[5];
+class8.aStringArray189[1] = "Wear";
+class8.anIntArray156 = new int[1];
+class8.anIntArray160 = new int[1];
+class8.anIntArray156[0] = 61;
+class8.anIntArray160[0] = 6073;
+class8.anInt174 = 5037;
+class8.anInt181 = 770;
+class8.anInt190 = 164;
+class8.anInt198 = 156;
+class8.anInt204 = 0;
+class8.anInt169 = 3;
+class8.anInt194 = -3;
+class8.anInt165 = 4954;
+class8.anInt200 = 5031;
+class8.anInt188 = -1;
+class8.anInt164 = -1;
+class8.anInt175 = -1;
+class8.anInt197 = -1;
+class8.aString170 = "Lava Boots";
+class8.aByteArray178 = "Lava boots".getBytes();
+}
+
+Where it says:
+class8.anIntArray156[0] = 61;
+class8.anIntArray160[0] = 6073;
+
+class8.anIntArray156[0] = 61; Is the original item color and
+
+class8.anIntArray160[0] = 6073; is the new color (my lava color)
+
+It always starts at 0, so if the item you want to recolor has more than one color,
+you would do something like this:
+
+class8.anIntArray156[1] = 6073;
+class8.anIntArray160[1] = 6073;
+
+Or if there were 3 colors you would do 
+
+class8.anIntArray156[2] = 6073;
+class8.anIntArray160[2] = 6073;
+
+Because it starts at 0.
+
+Here an example of rune boots in the item dump:
+
+Item Name: Rune boots
+Item ID: 4131
+Original model colors: 61
+Changed model colors: 36133
+anInt174: 5037
+anInt181: 770
+anInt190: 164
+anInt198: 156
+anInt204: 0
+anInt169: 3
+anInt194: -3
+anInt165: 4954
+anInt200: 5031
+anInt188: -1
+anInt164: -1
+anInt175: -1
+anInt197: -1
+
+Where it says orginial thats the number you put in this
+
+class8.anIntArray156[0] = 61;
+
+The modified color or my lava color is
+
+class8.anIntArray160[0] = 6073;
+
+Also you need to add these as well:
+anInt174: 5037
+anInt181: 770
+anInt190: 164
+anInt198: 156
+anInt204: 0
+anInt169: 3
+anInt194: -3
+anInt165: 4954
+anInt200: 5031
+anInt188: -1
+anInt164: -1
+anInt175: -1
+anInt197: -1
+
+NOTE: ^^^^ the anInts are different on every item
+
+and make sure in your Class8.java its in this format
+
+
+
+if(i == 15341){
+class8.aStringArray189 = new String[5];
+class8.aStringArray189[1] = "Wear";
+class8.anIntArray156 = new int[1];
+class8.anIntArray160 = new int[1];
+class8.anIntArray156[0] = 61;
+class8.anIntArray160[0] = 6073;
+class8.anInt174 = 5037;
+class8.anInt181 = 770;
+class8.anInt190 = 164;
+class8.anInt198 = 156;
+class8.anInt204 = 0;
+class8.anInt169 = 3;
+class8.anInt194 = -3;
+class8.anInt165 = 4954;
+class8.anInt200 = 5031;
+class8.anInt188 = -1;
+class8.anInt164 = -1;
+class8.anInt175 = -1;
+class8.anInt197 = -1;
+class8.aString170 = "Lava Boots";
+class8.aByteArray178 = "Lava boots".getBytes();
+}
+
+
+
+
+ENJOY RECOLORING YOUR ITEMS!!!!!
+
+-Iceman
+
+
+ALL CREDIT FOR THIS TUT GOES TO ICEMAN 100%.
+
+
+Thanks IceMan We All Will Find This Useful.
+
+
+
+
+
+
